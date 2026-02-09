@@ -1,0 +1,12 @@
+# Python
+backend/venv/
+__pycache__/
+.env
+
+# Node
+node_modules/
+.next/
+
+# ML
+*.pkl
+*.joblib
