@@ -1,0 +1,10 @@
+event_type,venue_capacity,ticket_price,days_before_event,registrations,revenue
+Technology,100,500,30,80,40000
+Technology,300,500,15,260,130000
+Entertainment,300,1200,20,280,336000
+Entertainment,800,1500,10,720,1080000
+Business,100,800,25,90,72000
+Business,300,800,12,240,192000
+Technology,800,600,7,700,420000
+Entertainment,100,1000,18,95,95000
+Business,800,1200,5,760,912000

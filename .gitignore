@@ -1,12 +1,15 @@
 # Python
 backend/venv/
 __pycache__/
+.pytest_cache/
 .env
 
 # Node
 node_modules/
 .next/
+frontend/dist/
 
-# ML
+# ML artifacts (regenerate with `python -m app.ml.train`)
 *.pkl
 *.joblib
+backend/app/ml/models/*.json
